@@ -5,7 +5,7 @@
 #
 # usage:
 #
-# This script is to publish control commands.
+# This script is to publish control commands.chouxiang
 #------------------------------------------------------------------------------
 
 import rospy
