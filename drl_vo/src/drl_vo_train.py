@@ -3,7 +3,7 @@
 # revision history: xzt
 #  20210604 (TE): first version
 #
-# usage:
+# usage:000
 #
 # This script is to train the DRL-VO policy using the PPO algorithm.
 #------------------------------------------------------------------------------
